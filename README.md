@@ -2,21 +2,21 @@
 
 ### AI Governance & Technology Strategy | Computer Engineering
 
-I’m a Computer Engineering student interested in the space where **AI, technology, governance, and business decisions meet**.
+I’m a Computer Engineering student interested in the space where **AI, technology, governance, security, and business decisions meet**.
 
 I enjoy understanding how intelligent systems are designed, evaluating their risks and trade-offs, and turning complex technical ideas into clear, practical frameworks and decisions.
 
 ---
 
-## 🧭 What I’m Working Toward
+## 🧭 Professional Direction
 
-I’m building toward a career in **AI Governance, Responsible AI, and AI Strategy** — with a focus on making AI systems useful, accountable, secure, and aligned with organizational goals.
+I’m building toward a career in **AI Governance, Responsible AI, and AI Strategy** — helping organizations adopt AI responsibly while balancing innovation, risk, security, privacy, and business value.
 
 My interests include:
 
 - 🤖 AI governance & responsible AI
 - 🛡️ AI risk, security & privacy
-- 📋 AI policies, controls & documentation
+- 📋 AI policies, controls & technical documentation
 - 🧩 AI system architecture & decision frameworks
 - 📊 Data, analytics & evidence-based decision-making
 - 🏢 Technology strategy and stakeholder communication
@@ -25,9 +25,9 @@ My interests include:
 
 ## 🧠 How I Think
 
-I’m especially interested in problems that sit between **technology and people**.
+I’m interested in problems that sit between **technology and people**.
 
-Rather than focusing only on building a system, I like asking:
+Rather than asking only how to build a system, I like asking:
 
 > What is this system supposed to achieve?
 >
@@ -35,9 +35,52 @@ Rather than focusing only on building a system, I like asking:
 >
 > What controls should exist?
 >
-> How do we evaluate whether it is actually working?
+> Who is accountable?
+>
+> How do we know whether it is actually working?
 
 That perspective is what draws me toward AI governance and technology strategy.
+
+---
+
+## ⭐ Featured Work
+
+### 🔐 AgentSentinel — AI Agent Runtime Security
+
+A security and governance layer for AI agents focused on runtime monitoring, tool permissions, and identifying potentially over-privileged or risky agent behavior.
+
+**Focus:** AI security · agent governance · permissions · runtime controls
+
+### 🏛️ AI Governance Framework
+
+A practical lifecycle framework covering AI system inventory, risk classification, accountability, security, privacy, human oversight, monitoring, and incident management.
+
+→ [`governance/AI_GOVERNANCE_FRAMEWORK.md`](governance/AI_GOVERNANCE_FRAMEWORK.md)
+
+### 📋 AI Risk Assessment Toolkit
+
+A reusable assessment template for identifying AI risks, documenting controls, evaluating residual risk, and making deployment decisions.
+
+→ [`governance/AI_RISK_ASSESSMENT.md`](governance/AI_RISK_ASSESSMENT.md)
+
+### 🏫 Spatially Intelligent Campus Systems
+
+AI-assisted institutional information and navigation systems combining knowledge graphs, retrieval-based AI, indoor navigation, and structured institutional data.
+
+---
+
+## 🛡️ AI Governance Portfolio
+
+| Area | What I’m Building |
+|---|---|
+| AI Risk | Risk identification, assessment & prioritization |
+| Responsible AI | Accountability, transparency & human oversight |
+| AI Security | Agent security, permissions & runtime controls |
+| Privacy | Data governance & privacy considerations |
+| Governance | Policies, controls, lifecycle documentation |
+| AI Strategy | Adoption, value, risk & business alignment |
+
+This portfolio is being built through **projects, research, frameworks, and case studies** rather than claims of expertise alone.
 
 ---
 
@@ -61,36 +104,6 @@ That perspective is what draws me toward AI governance and technology strategy.
 
 ---
 
-## 🔐 Security, AI & Systems Interests
-
-I’m particularly interested in the intersection of:
-
-**AI Systems × Governance × Security × Privacy × Business Decisions**
-
-Topics I’m exploring include AI risk management, model and agent security, access and permission controls, responsible AI practices, system architecture, and the documentation needed to make complex technology understandable and governable.
-
----
-
-## 📌 Selected Projects
-
-### 🧠 Crop Disease Detection System
-
-An AI-powered solution using machine learning and expert-system concepts to identify crop diseases and support smarter agricultural decision-making.
-
-### 🏫 Spatially Intelligent Campus Systems
-
-Exploring AI-assisted campus information and navigation systems that combine knowledge graphs, retrieval-based AI, indoor navigation, and structured institutional data.
-
-### 📝 Online Examination System
-
-A web-based examination platform focused on user management, assessment workflows, and efficient online evaluation.
-
-### 🧩 Intelligent Query Routing Systems
-
-Working with ideas around intelligent request routing, response optimization, and scalable backend architecture.
-
----
-
 ## 📚 Research & Documentation
 
 I enjoy working on the parts of technology that require **understanding before implementation**:
@@ -101,6 +114,22 @@ I enjoy working on the parts of technology that require **understanding before i
 - Risk and trade-off analysis
 - Technical reports and presentations
 - Converting complex technical concepts into clear explanations
+
+---
+
+## 📌 Selected Technical Projects
+
+### 🧠 Crop Disease Detection System
+
+An AI-powered solution using machine learning and expert-system concepts to identify crop diseases and support smarter agricultural decision-making.
+
+### 📝 Online Examination System
+
+A web-based examination platform focused on user management, assessment workflows, and efficient online evaluation.
+
+### 🧩 Intelligent Query Routing Systems
+
+Exploring intelligent request routing, response optimization, and scalable backend architecture.
 
 ---
 
